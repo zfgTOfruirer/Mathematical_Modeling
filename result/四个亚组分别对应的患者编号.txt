@@ -1,0 +1,25 @@
+Best Cluster N: 4
+'cluster_0': 
+               'personal_id': array(['sub011', 'sub018', 'sub022', 'sub024', 'sub027', 'sub028',
+       'sub035', 'sub036', 'sub043', 'sub051', 'sub057', 'sub059',
+       'sub064', 'sub066', 'sub067', 'sub069', 'sub070', 'sub071',
+       'sub072', 'sub077', 'sub081', 'sub092', 'sub096', 'sub097',
+       'sub100'], dtype=object)},
+ 'cluster_1': 
+               
+               'personal_id': array(['sub002', 'sub003', 'sub010', 'sub019', 'sub023', 'sub025',
+       'sub030', 'sub037', 'sub042', 'sub044', 'sub048', 'sub056',
+       'sub063', 'sub074', 'sub082', 'sub084', 'sub093', 'sub095',
+       'sub098'], dtype=object)},
+ 'cluster_2': 
+               'personal_id': array(['sub001', 'sub004', 'sub007', 'sub008', 'sub009', 'sub012',
+       'sub017', 'sub021', 'sub031', 'sub032', 'sub038', 'sub039',
+       'sub040', 'sub041', 'sub045', 'sub047', 'sub049', 'sub054',
+       'sub060', 'sub061', 'sub062', 'sub068', 'sub075', 'sub076',
+       'sub078', 'sub080', 'sub083', 'sub085', 'sub086', 'sub087',
+       'sub089', 'sub090', 'sub094', 'sub099'], dtype=object)},
+ 'cluster_3': 
+               'personal_id': array(['sub005', 'sub006', 'sub013', 'sub014', 'sub016', 'sub020',
+       'sub026', 'sub029', 'sub033', 'sub034', 'sub050', 'sub052',
+       'sub053', 'sub055', 'sub058', 'sub065', 'sub073', 'sub079',
+       'sub088', 'sub091'], dtype=object)}}
